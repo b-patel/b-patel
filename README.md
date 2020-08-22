@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Bhumika! 👋
+
+
+- 🔭 I’m currently working on .NET and Azure
+- 🌱 I’m currently learning Cloud Technologies
+- 🎖️ Accreditation - [Acclaim](https://www.youracclaim.com/users/iambhumikapatel)
+- 📫 How to reach me: [🌐](https://bhumikapatel.netlify.app/)
 
 <!--
 **b-patel/b-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

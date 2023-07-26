@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on .NET and Azure
 - 🌱 I’m currently learning Cloud Technologies
-- 🎖️ Accreditation - [Acclaim](https://www.youracclaim.com/users/iambhumikapatel)
+- 🎖️ Accreditation - [Credly](https://www.credly.com/users/iambhumikapatel)
 - 📫 How to reach me: [Portfolio 🌐](https://bhumikapatel.netlify.app/),  [LinkedIn](https://www.linkedin.com/in/iambhumikapatel/)
 
 <!--
